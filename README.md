@@ -3,7 +3,7 @@
 ### :sunglasses: About me
 
 - :thinking: Improving my programming skills, exploring new technologies and building software solutions for Clinical Trials
-- :briefcase: Working as **full-stack developer** at [Laptec](https://laptec.com.br/)
+- :briefcase: **Full-stack developer** at [Laptec](https://laptec.com.br/)
 - :seedling: Learning: **Postgres**, **Python**, **Flutter** and **Docker**
 
 ### :rocket: My skills
