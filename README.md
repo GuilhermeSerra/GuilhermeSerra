@@ -4,7 +4,7 @@
 
 - :thinking: Improving my programming skills, exploring new technologies and building software solutions for Clinical Trials
 - :briefcase: **Full-stack developer** at [Laptec](https://laptec.com.br/)
-- :seedling: Learning: **Postgres**, **Python**, **Flutter** and **Docker**
+- 🌱 Learning: **Postgres**, **Python**, **Flutter** and **Docker**
 
 ### :rocket: My skills
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
